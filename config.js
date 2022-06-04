@@ -1,13 +1,13 @@
 const CONFIG = {
     titleWeb: "❤️Love❤️",
     introTitle: 'Ỏ bạn nữ xinh đẹp❤️',
-    introDesc: `Ỏ có bạn nữ xinh đẹp nhấp vô link kìa❤️
+    introDesc: `Mẹ ơi con thích bạn gái nhấp vô link❤️
     bạn ấy thật đẹp❤️`,
-    btnIntro: 'Nhấp❤️',
+    btnIntro: '❤️',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
+    btnYes: 'Say yesss <33',
+    btnNo: 'Hông pé ơi :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Tặng cậu trái❤️ nè Đạt',
