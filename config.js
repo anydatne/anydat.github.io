@@ -4,9 +4,9 @@ const CONFIG = {
     introDesc: `Mẹ ơi con thích bạn gái nhấp vô link❤️
     bạn ấy thật đẹp❤️`,
     btnIntro: '❤️',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Say yesss <33',
+    title: 'Có thấy Đạt đẹp traiii hông nè 🥰',
+    desc: 'Trả lời thật lòng nhé ^.^ ',
+    btnYes: 'Đạt đẹp trai vclll <33',
     btnNo: 'Hông pé ơi :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
