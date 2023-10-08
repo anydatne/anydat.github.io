@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "❤️Love❤️",
-    introTitle: 'Hellu cậu,bạn nữ xinh đẹp!',
+    titleWeb: "❤️Love Huyền❤️",
+    introTitle: "Gửi bé huỳn cute phô mai que!!!",
     introDesc: `Tớ có điều này muốn hỏi cậu nhớ trả lời thật lòng nhá ^.^`,
     btnIntro: 'OK cậu!',
     title: 'Có phải cậu yêu tớ phải không nè🥰',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tặng bạn Trái ❤️ siuuuuu to khổng lồ nè.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/AnyNehi.04' 
+    messLink: 'https://www.facebook.com/profile.php?id=100089007874878' 
 }
